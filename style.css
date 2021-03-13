@@ -122,3 +122,9 @@ nav {
     text-decoration: none;
     color: #f6e652;
 }
+
+/* Body */
+
+.poke {
+    margin-top: 60px;
+}
